@@ -33,10 +33,8 @@ This is a simple weather website created using HTML, CSS, and JavaScript. It all
 
 ### Author:
 
-This weather website was created by [Your Name].
+This weather website was created by [Aneesh R Rao].
 
 ### License:
 
 This project is licensed under the [MIT License](LICENSE). Feel free to modify and use it according to your needs.
-
-For any questions or feedback, please contact [Your Email].
