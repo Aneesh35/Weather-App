@@ -29,7 +29,7 @@ This is a simple weather website created using HTML, CSS, and JavaScript. It all
 
 ### Preview:
 
-![Weather Website Preview](preview.png)
+![Weather Website Prev](weatherapp.png)
 
 ### Author:
 
