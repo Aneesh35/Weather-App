@@ -33,7 +33,7 @@ This is a simple weather website created using HTML, CSS, and JavaScript. It all
 
 ### Author:
 
-This weather website was created by [Aneesh R Rao].
+This weather website was created by Aneesh R Rao.
 
 ### License:
 
